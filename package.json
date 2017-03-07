@@ -44,7 +44,7 @@
     "version": "npm run flow.changelog && git add -A"
   },
   "dependencies": {
-    "dragula": "^3.7.2"
+    "dragula": "github:exponea/dragula#v3.7.2-exp.1"
   },
   "peerDependencies": {
     "@angular/core": "^2.3.0",
